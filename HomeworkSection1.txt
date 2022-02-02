@@ -1,0 +1,71 @@
+Capstone Idea (Definition Statement): I want to build an application that gives writers of all experience levels a platform to post and acquire feedback on their stories and writing styles, as well as read/rate content from other authors. 
+
+
+Definition of Audience:  Readers, writers, students, film/tv executives. 
+
+
+
+Outline of Content:  
+What do I want on each page?  (text / pics / images / navigation)
+Besides cover art and a profile picture, I’d like to keep images to a minimum. It’s all about the writings with this application. A universal navigation bar for 5 example pages: Popular page, individual profiles, discovery page, home feed, settings. At this point in our cohort, I’m not sure if developing these pages is something that will even be remotely possible with my skill set but a man can dream. 
+
+What do I want the functionality of each page to be?
+Popular page: Highest liked & trending writing shows up here. Pretty self-explanatory. 
+Individual Profile: Page to identify yourself and post your own personal writings that appear in the worldwide feed.
+Discovery Page: This is where you can discover new stories from everyone around the world. Search categories by genre, writing style, trending, etc.
+Home feed: New projects from writers you’ve followed and liked content from before show up on this page. I’d probably consider this to be the home page of the app and first thing you see upon loading it up.
+Settings: Pretty obvious one here. Page text size, color options, update your profile content, etc.  
+
+User Flow: https://drive.google.com/file/d/11IXJ1b4FLDYG8HHgbXx9Fxf-tgP3ztod/view?usp=sharing
+Wireframe: https://drive.google.com/file/d/17rB_WQ5ugygDRrN7L5y8jWQIYV_pqNiR/view?usp=sharing
+
+
+What is the purpose of my application?
+Create a platform for writers to share their stories and studies. Whether it be a short story, screenplay, novel, or just a simple research paper. 
+
+What business problem or real world problem am I going to be solving? 
+A lot of authors and storytellers have trouble getting their work out in the open & finding people to share it with. This app provides a single hub for you to share your stories with the entire storytelling community. 
+
+Color Palette:https://coolors.co/palette/fbf8cc-fde4cf-ffcfd2-f1c0e8-cfbaf0-a3c4f3-90dbf4-8eecf5-98f5e1-b9fbc0 I’d love to keep it vibrant, yet subtle. 
+
+Images:
+Beyond cover art and some sort of potential app logo, I really don’t want to see images on the app. Maybe profile photos potentially, but even that I’m not particularly fond of. I like the whole “don’t judge a book by its cover” mindset. We shouldn’t care about the appearance of other writers, it’s all about the content. 
+Fonts:
+I’d like something simple, yet elegant. A few examples: 
+Comfortaa
+Montseraat
+Spectral
+Logos:
+I’d love an “owl themed” logo. Nothing really to show here yet; if I go through with this idea I’ll probably have one drawn up by an actual artist. 
+
+Navigation: 
+A simple universal navigation bar towards the top of the page on the web, and displaced across the bottom on mobile devices, similar to how twitter mobile operates its pages. 
+
+Research Applications Similar: 
+List Applications Researched: (links to websites / applications) 
+Wattpad, Fictionpress
+
+List what you like about each site:
+They both nail the basic idea I’m going for. They both make it easy to view stories from other writers. Color palettes are very professional and they have a nice U/I. 
+
+List what you do not like about each site:
+There doesn’t seem to be an easy way to contact writers, and they’re very particular about one sort of writing project. It’s all short stories/poetry. I’d like my app to not only be centered around these, but also a point of research for college students to get research ideas and information, as well as tv/film executives to find new ideas and scriptwriters. 
+
+Elevator pitch: 
+Hi! My name is Jake Pudiwitr. I have a background in sales, creative writing, and tech. I love sharing my stories and imagination with different people, but had always wished there was an easier solution to present my work to a larger audience. 
+This is why I decided to build an app centered around storytelling and the writing community. A central hub where writers of all styles can post and explore work from anyone around the globe. 
+
+SWOT analysis
+STRENGTHS: 
+-Easy way to explore and read new stories.
+-Good location for studying. 
+-Offers more beyond other writing apps of the same principle. 
+WEAKNESSES:
+-Popular apps exist with the same core function. 
+-Resource/skill level limitations
+OPPORTUNITIES:
+-Apps that allow for all writing styles presented in one location are next to none. 
+-Writers are looking for a better alternative to story apps, just making due with whats currently available.
+THREATS:
+-Existing apps already have a head start, can shift and make their app more intuitive on the fly. 
+-The writing industries online presence is already growing, chance are an idea like mine is already in the  works.  
