@@ -1,0 +1,13 @@
+.aboutme {
+    border: 35px solid skyblue;
+}
+.aboutme {
+    color: rgb(240, 142, 207);
+}
+#maintitle {
+    color: rgb(252, 242, 208);
+}
+div,
+    .lists {
+        color:rgb(252, 242, 208);
+    }
