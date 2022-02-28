@@ -1,0 +1,30 @@
+.flex{
+    display:flex;
+    justify-content: space-between;
+    align-items:baseline;
+    border: 12px solid pink;
+}
+div,
+    .first {
+        display: flex;
+        border: 6px solid skyblue;
+    }
+.aboutme {
+    border: 35px solid skyblue;
+}
+.aboutme {
+    color: rgb(240, 142, 207);
+}
+#maintitle {
+    color: rgb(252, 242, 208);
+}
+div,
+    .lists {
+        color:rgb(252, 242, 208);
+    }
+
+.footer {
+    display: flex;
+    justify-content: last baseline;
+    border: 6px solid pink;
+}
